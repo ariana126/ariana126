@@ -11,30 +11,25 @@ I quickly adapt to new technologies, thrive in collaborative teams, and love sol
 
 ---
 
-### 🛠 Tech Stack
-<p >
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
-<p >
-  <!-- Frameworks -->
-  <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Deno-000000?style=for-the-badge&logo=deno&logoColor=white" /></p>
-<p >
-  <!-- Databases -->
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
-<p >
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-</p>
+#### Languages
+![PHP](https://img.shields.io/badge/-PHP-333?style=flat&logo=php)
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
+
+#### Frameworks & Libraries
+![Symfony](https://img.shields.io/badge/-Symfony-333?style=flat&logo=symfony)
+![Laravel](https://img.shields.io/badge/-Laravel-333?style=flat&logo=laravel)
+![Django](https://img.shields.io/badge/-Django-333?style=flat&logo=django)
+![Deno](https://img.shields.io/badge/-Deno-333?style=flat&logo=deno)
+
+#### Databases
+![MySQL](https://img.shields.io/badge/-MySQL-333?style=flat&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=flat&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb)
+
+#### Tools & Platforms
+![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker)
+![Redis](https://img.shields.io/badge/-Redis-333?style=flat&logo=redis)
 
 ---
 
