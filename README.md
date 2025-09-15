@@ -11,6 +11,8 @@ I quickly adapt to new technologies, thrive in collaborative teams, and love sol
 
 ---
 
+### 🛠 Tech Stack
+
 #### Languages
 ![PHP](https://img.shields.io/badge/-PHP-333?style=flat&logo=php)
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
